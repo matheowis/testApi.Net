@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VisualStudioProjects\\private\\repos-cpp\\testAPI\\testAPI\\testAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\VisualStudioProjects\\private\\repos-cpp\\testAPI\\testAPI\\testAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VisualStudioProjects\\private\\repos-cpp\\testAPI\\testAPI\\testAPI.csproj",
+        "projectName": "testAPI",
+        "projectPath": "E:\\VisualStudioProjects\\private\\repos-cpp\\testAPI\\testAPI\\testAPI.csproj",
+        "packagesPath": "C:\\Users\\ma.wisniowski\\.nuget\\packages\\",
+        "outputPath": "E:\\VisualStudioProjects\\private\\repos-cpp\\testAPI\\testAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ma.wisniowski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.myget.org/F/servicestack": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            },
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "ServiceStack.Client": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "ServiceStack.Common": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "ServiceStack.Mvc": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "ServiceStack.OrmLite": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "ServiceStack.OrmLite.Oracle": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "ServiceStack.OrmLite.SqlServer": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
