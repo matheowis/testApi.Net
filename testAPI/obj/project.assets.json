@@ -13701,11 +13701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VisualStudioProjects\\private\\repos-cpp\\testAPI\\testAPI\\testAPI.csproj",
+      "projectUniqueName": "E:\\VisualStudioProjects\\private\\repos-cpp\\testApi.Net\\testAPI\\testAPI.csproj",
       "projectName": "testAPI",
-      "projectPath": "E:\\VisualStudioProjects\\private\\repos-cpp\\testAPI\\testAPI\\testAPI.csproj",
+      "projectPath": "E:\\VisualStudioProjects\\private\\repos-cpp\\testApi.Net\\testAPI\\testAPI.csproj",
       "packagesPath": "C:\\Users\\ma.wisniowski\\.nuget\\packages\\",
-      "outputPath": "E:\\VisualStudioProjects\\private\\repos-cpp\\testAPI\\testAPI\\obj\\",
+      "outputPath": "E:\\VisualStudioProjects\\private\\repos-cpp\\testApi.Net\\testAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

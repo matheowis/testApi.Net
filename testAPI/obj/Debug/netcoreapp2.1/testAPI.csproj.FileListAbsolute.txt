@@ -12,3 +12,17 @@ E:\VisualStudioProjects\private\repos-cpp\testAPI\testAPI\obj\Debug\netcoreapp2.
 E:\VisualStudioProjects\private\repos-cpp\testAPI\testAPI\bin\Debug\netcoreapp2.1\testAPI.pdb
 E:\VisualStudioProjects\private\repos-cpp\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.dll
 E:\VisualStudioProjects\private\repos-cpp\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.pdb
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\bin\Debug\netcoreapp2.1\testAPI.deps.json
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\bin\Debug\netcoreapp2.1\testAPI.runtimeconfig.json
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\bin\Debug\netcoreapp2.1\testAPI.runtimeconfig.dev.json
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\bin\Debug\netcoreapp2.1\testAPI.dll
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\bin\Debug\netcoreapp2.1\testAPI.pdb
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.csprojAssemblyReference.cache
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorAssemblyInfo.cache
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorAssemblyInfo.cs
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.AssemblyInfoInputs.cache
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.AssemblyInfo.cs
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorTargetAssemblyInfo.cache
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.dll
+E:\VisualStudioProjects\private\repos-cpp\testApi.Net\testAPI\obj\Debug\netcoreapp2.1\testAPI.pdb
